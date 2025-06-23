@@ -19,7 +19,7 @@ Although not a game, this program is built on simple and engaging logic:
 - String methods
 - File operations
 
-  🚀 Features
+🚀 Features
 - Input validation
 - Error handling
 - Investment breakdown
