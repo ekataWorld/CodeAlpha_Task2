@@ -31,7 +31,6 @@ It provides a beginner-friendly way to simulate real-world portfolio management 
 
 ## 📸 Demo Output
 
-```bash
 Enter stock name (or type 'done' to finish): TCS
 Enter number of shares: 2
 
@@ -55,8 +54,6 @@ Add real-time stock price fetching via API (e.g., Yahoo Finance)
 Include saving/loading portfolio data using files or database
 Add support for stock sell transactions
 Track profit/loss over time
-
-time
 
 ## 🙌 Contributing
 Contributions are welcome! If you have ideas to improve the app, feel free to fork the repo and create a pull request. 🎯
