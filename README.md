@@ -1,36 +1,69 @@
-# CodeAlpha_Task2
-📌 Project Title:
+<h1 align="center">📈 Stock Portfolio Tracker</h1>
 
-💹 Stock Portfolio Tracker Using Python
+<p align="center">
+  <b>A simple Python-based console app to track and manage your stock investments</b><br>
+  💼 CodeAlpha Internship – Task 2 | Developed by <a href="https://github.com/ekataWorld">Ekata Patil</a>
+</p>
 
-📖 Project Overview
+---
 
-The Stock Portfolio Tracker is a Python-based console application that helps users simulate investing in shares of major companies. The user can input stock names and quantities, and the system calculates the total investment based on predefined prices. It also offers the option to save the investment summary to a text file. This project is ideal for beginners learning Python, especially input handling, data structures, and file operations.
+## 🧾 Project Overview
 
-🧠 Project Concept 
+This **Stock Portfolio Tracker** is a terminal-based Python project that allows users to:
 
-Although not a game, this program is built on simple and engaging logic:
- Users can choose from a list of companies (e.g., TCS, Infosys).
- For each valid entry, they provide the number of shares to “buy.”
- The total cost is calculated for each stock and accumulated.
- The user can save their portfolio summary to a text file.
+- Input the stocks they’ve purchased
+- Track the quantity of shares
+- Calculate the total value of their portfolio
 
- 🐍 Python Concepts
- 
-- Dictionaries
-- Loops and conditionals
-- Exception handling
-- String methods
-- File operations
+It provides a beginner-friendly way to simulate real-world portfolio management using Python dictionaries and basic logic.
 
-🚀 Features
+---
 
-- Input validation
-- Error handling
-- Investment breakdown
-- Save to file option
-- Easy to extend
+## 🚀 Features
 
-✅ Conclusion
+✅ Add multiple stocks to your portfolio  
+✅ Pre-defined stock price list  
+✅ Calculate and display portfolio worth  
+✅ Case-insensitive input handling  
+✅ Simple and clean command-line interface  
 
-A practical beginner project to learn Python and understand basic investment simulation. Easy to upgrade with more real-world features.
+---
+
+## 📸 Demo Output
+
+```bash
+Enter stock name (or type 'done' to finish): TCS
+Enter number of shares: 2
+
+Enter stock name (or type 'done' to finish): Infosys
+Enter number of shares: 5
+
+Your Portfolio:
+- TCS: 2 shares × ₹3600 = ₹7200
+- Infosys: 5 shares × ₹1500 = ₹7500
+
+Total Portfolio Value: ₹14,700
+
+## 💼 Tech Stack
+
+✅ Python 3
+✅ Command Line Interface (CLI)
+✅ Dictionaries & Control Flow
+
+## 📌 Future Enhancements
+Add real-time stock price fetching via API (e.g., Yahoo Finance)
+Include saving/loading portfolio data using files or database
+Add support for stock sell transactions
+Track profit/loss over time
+
+time
+
+## 🙌 Contributing
+Contributions are welcome! If you have ideas to improve the app, feel free to fork the repo and create a pull request. 🎯
+
+## 📄 License
+This project is licensed under the MIT License.
+
+
+
+
