@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>A simple Python-based console app to track and manage your stock investments</b><br>
-  💼 CodeAlpha Internship – Task 2 | Developed by <a href="https://github.com/ekataWorld">Ekata Patil</a>
 </p>
 
 ---
